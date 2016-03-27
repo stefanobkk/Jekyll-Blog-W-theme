@@ -1,0 +1,73 @@
+Searching 31 files for "a responsive"
+
+/Users/stefanocassio/Downloads/flex-master/README.md:
+    2  ====
+    3  
+    4: Welcome to Stefanos Blog, flexible, [Jekyll](http://jekyllrb.com) theme.
+    5  
+    6  The theme is based on the website [The Development](http://thedevelopment.co).
+
+/Users/stefanocassio/Downloads/flex-master/_layouts/default.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/index.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/README.md:
+    2  ====
+    3  
+    4: Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
+    5  
+    6  The theme is based on the website [The Development](http://thedevelopment.co).
+
+/Users/stefanocassio/Downloads/flex-master/_site/2016/03/26/Bash-Commands.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/2016/03/26/Internet-Programming-Final-Notes.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/2016/03/26/london-abulance-failed-project.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/2016/03/26/useful-ruby-gems.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/jekyll/update/2016/03/26/welcome-to-jekyll.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+/Users/stefanocassio/Downloads/flex-master/_site/posts/2013/12/09/example-post.html:
+   25          <div class="header">
+   26            <h1 class="title"><a href="/"><img id="logo" src="/images/logo.png"></a></h1>
+   27:           <span class="tagline">A responsive Jekyll theme</span>
+   28          </div>
+   29          <div class="posts">
+
+10 matches across 10 files
